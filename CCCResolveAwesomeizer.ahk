@@ -5,6 +5,8 @@
 ; Based on the work of beau@beaugilles.com.  Much gratitude to that dude,
 ; Beau Gilles is to macros what Michael Jordan is to basketball.
 ;
+; Testing GIT updates.
+;
 ; Direct Macros:
 ;   snapPlayheadToMousePosition - works on both Edit and Fusion pages
 ;   fusionToggleSPLINEWindowSizeState
