@@ -1,0 +1,16 @@
+To get   to work in Fusion on 2nd monitor...
+
+grabPlayhead-w-Derek-mods-for-2nd-mon-Alt-X.ahk
+
+To get to work on 2nd mon, needed to:
+
+a) Change search color to 0xA43A31 (checked with Gimp)
+b) Add CoordMode, Pixel, Screen
+
+Note his -8 mouse offset was indeed necessary on my machine.
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/debugview
+C:\Users\Derek.Carlson\Desktop\Etc\TimelineClick AutoHotKey Davinci Resolve\DebugView\Dbgview.exe
+Edit | Filter|Highlight - set to AHK* to see only AHK output
+
+
